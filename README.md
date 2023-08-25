@@ -34,7 +34,3 @@ The circuit utilizes two astable circuits, with the first one powering the secon
 ## Conclusion
 
 In conclusion, this project showcases a model traffic light system using 555 timer ICs. The circuit effectively replicates the sequential operation of traffic lights by utilizing two 555 timer ICs to control LED timings. It provides a practical and educational demonstration of the 555 timer IC's capabilities in designing traffic light systems.
-
-Feel free to contribute, modify, and enhance this project for further experimentation and learning!
-
-For more details, check out the [detailed project report](Project_Report.pdf).
