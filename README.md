@@ -1,6 +1,6 @@
 # Traffic Light Signal using IC 555
 
-![Traffic Light](images/traffic_light.jpg)
+![Traffic Light](https://raw.githubusercontent.com/Azazel0203/traffic_light_ic555/main/image.png)
 
 This project involves designing and building a model traffic light circuit using two 555 timer ICs along with various electronic components. The circuit emulates the behavior of traffic lights, with LEDs representing green, yellow, and red signals. The sequence of operation involves the green LED turning on for a specific duration, followed by a brief moment of the yellow LED, and then the red LED for a similar duration. This cyclic pattern repeats to simulate a traffic light system.
 
